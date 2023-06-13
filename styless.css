@@ -109,7 +109,7 @@ header{
   height: 37.2vw;
   /* width: 78.125vw; */
   width: 100%;
-  top: 78.4px;
+  top: 85px;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -119,7 +119,7 @@ header{
   height: 37.2vw;
   /* width: 78.125vw; */
   width: 100%;
-  top: 78.4px;
+  top: 85px;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -129,7 +129,7 @@ header{
   height: 37.2vw;
   /* width: 78.125vw; */
   width: 100%;
-  top: 78.4px;
+  top: 85px;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1155,10 +1155,10 @@ header{
 
 #p-head-bg{
   background: url("images/prod\ top\ bg.png");
-  top: 5.2604166666666666666666666666667vw;
+  top: 85px;
   position: absolute;
     width: 100%;
-    height: 24.9vw;
+    height: 19.92vw;
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -1180,15 +1180,15 @@ header{
 
 #p-prod-pagg{
   position: absolute;
-    width: 45vw;
+    width: 36vw;
     /* height: 8.1770833333333333333333333333333vw; */
-    left: 27.4vw;
-    top: 11.8vw;
+    left: 31.4vw;
+    top: 9.44vw;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.8vw;
-    line-height: 1.9vw;
+    font-size: 1.44vw;
+/*     line-height: 1.9vw; */
     color: #FFFFFF;
     text-align: center;
 }
