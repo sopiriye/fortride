@@ -368,7 +368,7 @@ header{
 
 #pag-know{
   position: absolute;
-    width: 29.6vw;
+    width: 30.6vw;
     /* height: 104px; */
     left: 18vw;
     top: 54.64vw;
@@ -378,7 +378,7 @@ header{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 0.944vw;
+    font-size: 0.984vw;
     line-height: 160%;
     /* or 26px */
   
@@ -410,7 +410,7 @@ header{
 
 #peal-pag{
   position: absolute;
-    width: 32.8vw;
+    width: 33.8vw;
     /* height: 56px; */
     left: 18vw;
     top: 64.8vw;
@@ -420,7 +420,7 @@ header{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 0.9328vw;
+    font-size: 0.9628vw;
     line-height: 160%;
     /* or 26px */
   
@@ -476,16 +476,16 @@ header{
 
 #brand-work{
   position: absolute;
-    width: 17vw;
+    width: 13.6vw;
     /* height: 19px; */
-    left: 6vw;
-    top: 102vw;
+    left: 7.2vw;
+    top: 81.6vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 1.1vw;
-    line-height: 19px;
+    font-size: 0.88vw;
+/*     line-height: 19px; */
     /* identical to box height */
   
     letter-spacing: 2px;
@@ -496,49 +496,49 @@ header{
 
 #chevrolet{
   position: absolute;
-    width: 6.8vw;
+    width: 5.44vw;
     /* height: 68px; */
-    left: 10vw;
-    top: 104.6vw;
+    left: 12vw;
+    top: 83.68vw;
 }
 
 #aston-martin{
   position: absolute;
-    width: 6.8vw;
+    width: 5.44vw;
     /* height: 68px; */
-    left: 24.1vw;
-    top: 104.6vw;
+    left: 23.28vw;
+    top: 83.68vw;
 }
 
 #gmc{
   position: absolute;
-    width: 6.8vw;
+    width: 5.44vw;
     /* height: 68px; */
-    left: 38.2vw;
-    top: 104.6vw;
+    left: 34.56vw;
+    top: 83.68vw;
 }
 
 #ducati{
   position: absolute;
     width: 6.8vw;
-    height: 6vw;
-    left: 52.3vw;
-    top: 104.6vw;
+    height: 4.8vw;
+    left: 45.84vw;
+    top: 83.68vw;
 }
 
 #cadillac-crest{
   position: absolute;
-    width: 6.8vw;
+    width: 5.44vw;
     /* height: 68px; */
-    left: 66.4vw;
-    top: 104.6vw;
+    left: 57.12vw;
+    top: 83.68vw;
 }
 
 #tesla{
   position: absolute;
     width: 6.8vw;
     /* height: 68px; */
-    left: 79.7vw;
+    left: 83.7vw;
     top: 104.6vw;
 }
 
