@@ -458,7 +458,7 @@ header{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 0.96vw;
+    font-size: 0.768vw;
 /*     line-height: 19px; */
     /* identical to box height */
   
@@ -645,15 +645,15 @@ header{
 
 #drum-rotor-a-pag-landing{
   position: absolute;
-    width: 20vw;
+    width: 16vw;
     /* height: 66px; */
-    left: 10.9vw;
-    top: 52.2vw;
+    left: 17.9vw;
+    top: 41.7vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 1.5vw;
+    font-size: 1.2vw;
     line-height: 150%;
     /* or 33px */
   
@@ -664,15 +664,15 @@ header{
 
 #brake-drum-pag-landing{
   position: absolute;
-    width: 11vw;
+    width: 8.8vw;
     /* height: 66px; */
     left: 44.6vw;
-    top: 52.2vw;
+    top: 41.7vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 1.5vw;
+    font-size: 1.2vw;
     line-height: 150%;
     /* or 33px */
   
@@ -683,15 +683,15 @@ header{
 
 #brake-rotor-pag-landing{
   position: absolute;
-    width: 11vw;
+    width: 8.8vw;
     /* height: 66px; */
-    left: 73.9vw;
-    top: 52.2vw;
+    left: 67.9vw;
+    top: 41.7vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 1.5vw;
+    font-size: 1.2vw;
     line-height: 150%;
     /* or 33px */
   
@@ -705,14 +705,14 @@ header{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 1.1vw 2.4vw;
+    padding: 0.88vw 1.92vw;
     /* gap: 10px; */
   
     position: absolute;
     /* width: 146px; */
     /* height: 51px; */
-    left: 44.6vw;
-    top: 60vw;
+    left: 47.68vw;
+    top: 48vw;
   
     background: #208235;
     backdrop-filter: blur(40px);
