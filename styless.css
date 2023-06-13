@@ -152,29 +152,29 @@ header{
 #sec-head-span{
   position: absolute;
   /* width: 33.333333333333333333333333333333vw; */
-  height: 3.4375vw;
-  left: 7.2395833333333333333333333333333vw;
-  top: 9vw;
+/*   height: 3.4375vw; */
+  left: 8.64vw;
+  top: 7.2vw;
   color: #38E65F;;
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 700;
-  font-size: 4.1vw;
-  line-height: 120%;
+  font-size: 3.28vw;
+/*   line-height: 120%; */
 }
 
 #thi-head-span{
   position: absolute;
   /* width: 33.333333333333333333333333333333vw; */
-  height: 3.4375vw;
-  left: 7.2395833333333333333333333333333vw;
-  top: 9vw;
+/*   height: 3.4375vw; */
+  left: 8.64vw;
+  top: 7.2vw;
   color: #38E65F;;
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 700;
-  font-size: 4.1vw;
-  line-height: 120%;
+  font-size: 3.28vw;
+/*   line-height: 120%; */
 }
 
 #fir-head-p{
@@ -192,27 +192,27 @@ header{
 }
 #sec-head-p{
   position: absolute;
-  width: 43vw;
-  height: 8.1770833333333333333333333333333vw;
-  left: 7.2395833333333333333333333333333vw;
-  top: 15.4vw;
+  width: 34.4vw;
+/*   height: 8.1770833333333333333333333333333vw; */
+  left: 8.64vw;
+  top: 12.32vw;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  font-size: 2.2vw;
+  font-size: 1.76vw;
   line-height: 2.6vw;
   color: #FFFFFF;
 }
 #thi-head-p{
   position: absolute;
-  width: 55vw;
-  height: 8.1770833333333333333333333333333vw;
-  left: 7.2395833333333333333333333333333vw;
-  top: 15.4vw;
+  width: 45vw;
+/*   height: 8.1770833333333333333333333333333vw; */
+  left: 8.64vw;
+  top: 12.32vw;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  font-size: 2.1vw;
+  font-size: 1.68vw;
   line-height: 2.6vw;
   color: #FFFFFF;
 }
@@ -296,12 +296,12 @@ header{
 
 #s-a-cont-link-2{
   top: 0vw;
-  left: 11.5vw;
+  left: 9.15vw;
 }
 
 #s-a-cont-link-3{
-  top: 0vw;
-  left: 10vw;
+  top: 0.5vw;
+  left: 9.15vw;
 }
 
 #s-p-cont-link-1{
@@ -931,7 +931,7 @@ header{
     /* width: 146px; */
     /* height: 51px; */
     left: 43.6vw;
-    top: 293.3vw;
+    top: 236.94vw;
   
     background: #208235;
     backdrop-filter: blur(40px);
