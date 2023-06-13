@@ -321,23 +321,23 @@ header{
 
 #line-know{
   position: absolute;
-  width: 7vw;
+  width: 5.6vw;
   height: 0vw;
-  left: 6vw;
-  top: 60.6vw;
+  left: 7.2vw;
+  top: 48.48vw;
   border: 2px solid #1D2130;
 }
 
 #know-about{
   position: absolute;
-  width: 12vw;
+/*   width: 12vw; */
   /* height: 19px; */
-  left: 15vw;
-  top: 60vw;
+  left: 18vw;
+  top: 48vw;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
-  font-size: 1.18vw;
+  font-size: 0.944vw;
   /* line-height: 19px; */
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -348,16 +348,16 @@ header{
   position: absolute;
     /* width: 344px; */
     /* height: 58px; */
-    left: 15vw;
-    top: 63.5vw;
+    left: 18vw;
+    top: 50.8vw;
   
     /* H2 */
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 3.6vw;
-    line-height: 120%;
+    font-size: 2.88vw;
+/*     line-height: 120%; */
     /* identical to box height, or 58px */
   
   
@@ -368,17 +368,17 @@ header{
 
 #pag-know{
   position: absolute;
-    width: 37vw;
+    width: 29.6vw;
     /* height: 104px; */
-    left: 15vw;
-    top: 68.3vw;
+    left: 18vw;
+    top: 54.64vw;
   
     /* Paragraph */
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.18vw;
+    font-size: 0.944vw;
     line-height: 160%;
     /* or 26px */
   
@@ -392,14 +392,14 @@ header{
   position: absolute;
     /* width: 344px; */
     /* height: 48px; */
-    left: 15vw;
-    top: 76.5vw;
+    left: 18vw;
+    top: 61.2vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 3.2vw;
-    line-height: 120%;
+    font-size: 2.56vw;
+/*     line-height: 120%; */
     /* identical to box height, or 48px */
   
   
@@ -410,17 +410,17 @@ header{
 
 #peal-pag{
   position: absolute;
-    width: 41vw;
+    width: 32.8vw;
     /* height: 56px; */
-    left: 15vw;
-    top: 81vw;
+    left: 18vw;
+    top: 64.8vw;
   
     /* Paragraph */
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.166vw;
+    font-size: 0.9328vw;
     line-height: 160%;
     /* or 26px */
   
@@ -435,14 +435,14 @@ header{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 1.1vw 2.4vw;
+    padding: 0.88vw 1.92vw;
     /* gap: 10px; */
   
     position: absolute;
     /* width: 146px; */
     /* height: 51px; */
-    left: 15vw;
-    top: 88vw;
+    left: 18vw;
+    top: 70.4vw;
   
     background: #208235;
     backdrop-filter: blur(40px);
@@ -458,8 +458,8 @@ header{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 1.2vw;
-    line-height: 19px;
+    font-size: 0.96vw;
+/*     line-height: 19px; */
     /* identical to box height */
   
     text-align: right;
@@ -544,10 +544,10 @@ header{
 
 #video{
   position: absolute;
-    width: 35vw;
-    height: 43vw;
-    left: 60vw;
-    top: 54.9vw;
+    width: 28vw;
+    height: 34.4vw;
+    left: 54vw;
+    top: 43.92vw;
     object-fit: cover;
     border-radius: 20px;
     /* aspect-ratio: 3/2; */
