@@ -11,7 +11,7 @@
 
 
 header{
-  width: 100%;
+  width: 100%:
   height: 90px;
   display: flex;
   align-items: center;
@@ -4364,43 +4364,43 @@ header{
   }
   .s-p-cont-link{
     padding: 0;
-    width: 18vw;
-    height: 6vw;
+    width: 20vw;
+    height: 7vw;
   }
   .s-a-cont-link{
     padding: 0;
-    width: 14vw;
-    height: 6vw;
+    width: 17vw;
+    height: 7vw;
   }
   .s-p-link{
     
-    font-size: 2.33vw;
+    font-size: 2.95vw;
 
   }
   .s-a-link{
     
-    font-size: 2.3vw;
+    font-size: 2.92vw;
     }
   #fir-head-span{
     font-size: 5.59vw;
     left: 23vw;
-    
+    top: 7vw;
   }
   #fir-head-p{
-    width: 49.8vw;
-    font-size: 2.33vw;
+    width: 70vw;
+    font-size: 3.26vw;
     text-align: center;
-    left: 25vw;
-    top: 17.6vw;
-    line-height: 160%;
+    left: 16vw;
+    top: 14.6vw;
+    line-height: 143%;
   }
   #s-p-cont-link-1{
-    top: 6vw;
-    left: 27.4vw;
+    top: 5vw;
+    left: 23.4vw;
   }
   #s-a-cont-link-1{
-    top: 6vw;
-    left: 46.7vw;
+    top: 5vw;
+    left: 45.1vw;
   }
   #video{
     display: none;
@@ -4422,5 +4422,7 @@ header{
     left: 40vw;
     top: 89.8vw;
   }
-
+  #slide1{
+    top: 82px;
+  }
 }
