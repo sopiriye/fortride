@@ -867,10 +867,10 @@ header{
 #no-ride{
   background: url("images/BG.png");
   position: absolute;
-    width: 87.8%;
-    height: 26vw;
-    left: 6.2vw;
-    top: 232.2vw;
+    width: 70.24%;
+    height: 20.8vw;
+    left: 15.2vw;
+    top: 185.76vw;
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
@@ -879,18 +879,18 @@ header{
 
 #bold-fort{
   position: absolute;
-    width: 59vw;
+    width: 47.2vw;
     /* height: 116px; */
-    left: 13.1vw;
-    top: 5.4vw;
+    left: 10.48vw;
+    top: 4.32vw;
   
     /* H2 */
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 3.49vw;
-    line-height: 120%;
+    font-size: 2.792vw;
+/*     line-height: 120%; */
     /* or 58px */
   
     text-align: center;
@@ -903,14 +903,14 @@ header{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 0.8vw 1.7vw;
+    padding: 0.64vw 1.36vw;
     /* gap: 10px; */
   
     position: absolute;
     /* width: 146px; */
     /* height: 51px; */
-    left: 37.15vw;
-    top: 15.9vw;
+    left: 29.72vw;
+    top: 12.72vw;
   
     background: #208235;
     backdrop-filter: blur(40px);
