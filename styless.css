@@ -11,8 +11,8 @@
 
 
 header{
-  width: 100%:
-  height: 90px;
+/*   width: 100%: */
+/*   height: 90px; */
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -4325,7 +4325,7 @@ header{
     display: block;
     cursor: pointer;
     position: relative;
-    bottom: 1.5vw;
+    top: 6.6vw;
   }
   .hamburger .line{
     width: 31px;
