@@ -106,30 +106,30 @@ header{
 
 #slide1{
   background: url("images/spiral_bend_wheel.png");
-  height: 46.5vw;
+  height: 37.2vw;
   /* width: 78.125vw; */
   width: 100%;
-  top: 98px;
+  top: 78.4px;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #slide2{
   background: url("images/black\ car\ &\ wheel.png");
-  height: 46.5vw;
+  height: 37.2vw;
   /* width: 78.125vw; */
   width: 100%;
-  top: 98px;
+  top: 78.4px;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #slide3{
   background: url("images/golden_wheel.png");
-  height: 46.5vw;
+  height: 37.2vw;
   /* width: 78.125vw; */
   width: 100%;
-  top: 98px;
+  top: 78.4px;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -139,14 +139,14 @@ header{
   position: absolute;
   /* width: 33.333333333333333333333333333333vw; */
   height: 3.4375vw;
-  left: 7.2395833333333333333333333333333vw;
-  top: 9vw;
+  left: 8.64vw;
+  top: 7.2vw;
   color: #38E65F;;
   font-family: 'Roboto Slab';
   font-style: normal;
   font-weight: 700;
-  font-size: 4.1vw;
-  line-height: 120%;
+  font-size: 3.28vw;
+/*   line-height: 120%; */
 }
 
 #sec-head-span{
@@ -179,15 +179,15 @@ header{
 
 #fir-head-p{
   position: absolute;
-  width: 52vw;
-  height: 8.1770833333333333333333333333333vw;
-  left: 7.2395833333333333333333333333333vw;
-  top: 15.4vw;
+  width: 41.6vw;
+/*   height: 8.1770833333333333333333333333333vw; */
+  left: 8.64vw;
+  top: 12.32vw;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  font-size: 2.1vw;
-  line-height: 2.6vw;
+  font-size: 1.68vw;
+  line-height: 2.08vw;
   color: #FFFFFF;
 }
 #sec-head-p{
@@ -220,9 +220,9 @@ header{
 .linkz{
   position: absolute;
   width: 15.260416666666666666666666666667vw;
-  height: 2.65625vw;
-  left: 7.2395833333333333333333333333333vw;
-  top: 26vw;
+/*   height: 2.65625vw; */
+  left: 8.64vw;
+  top: 20.8vw;
 }
 
 .s-p-link{
@@ -246,8 +246,8 @@ header{
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 1vw 2.2vw;
-  gap: 0.52083333333333333333333333333333vw;
+  padding: 0.8vw 1.76vw;
+/*   gap: 0.52083333333333333333333333333333vw; */
   position: absolute;
   /* width: 7.8125vw; */
   /* height: 2.65625vw; */
@@ -262,7 +262,7 @@ header{
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 0.65vw 2.6vw;
+  padding: 0.52vw 2.08vw;
   gap: 0.52083333333333333333333333333333vw;
   position: absolute;
   /* width: 130px; */
@@ -291,7 +291,7 @@ header{
 
 #s-a-cont-link-1{
   top: 0vw;
-  left: 10vw;
+  left: 9.2vw;
 }
 
 #s-a-cont-link-2{
