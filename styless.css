@@ -568,23 +568,23 @@ header{
 
 #line-prod {
   position: absolute;
-  width: 6vw;
+  width: 4.8vw;
   height: 0vw;
-  left: 6.4vw;
-  top: 6.5vw;
+  left: 7.68vw;
+  top: 5.2vw;
   border: 2px solid #1D2130;
 }
 
 #our-prod {
   position: absolute;
-  width: 12vw;
+  width: 9.6vw;
   /* height: 19px; */
-  left: 13.9vw;
-  top: 6vw;
+  left: 16.68vw;
+  top: 4.8vw;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
-  font-size: 1vw;
+  font-size: 0.8vw;
   /* line-height: 19px; */
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -593,18 +593,18 @@ header{
 
 #prod-check{
   position: absolute;
-    width: 41vw;
+    width: 32.8vw;
     /* height: 174px; */
-    left: 14.7vw;
-    top: 8.6vw;
+    left: 17.64vw;
+    top: 6.88vw;
   
     /* H2 */
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 3.2vw;
-    line-height: 120%;
+    font-size: 2.56vw;
+/*     line-height: 120%; */
     /* or 58px */
   
   
@@ -615,30 +615,30 @@ header{
 
 #drum-rotor-a-landing{
   position: absolute;
-    width: 26.8vw;
-    height: 28vw;
-    left: 6.9vw;
-    top: 23.4vw;
+    width: 21.44vw;
+    height: 22.4vw;
+    left: 14.28vw;
+    top: 18.72vw;
     object-fit: cover;
     border-radius: 20px;
 }
 
 #brake-drum-landing{
   position: absolute;
-    width: 29vw;
-    height: 28vw;
-    left: 35.2vw;
-    top: 23.4vw;
+    width: 21.44vw;
+    height: 22.4vw;
+    left: 37.45vw;
+    top: 18.72vw;
     object-fit: cover;
     border-radius: 20px;
 }
 
 #brake-rotor-landing{
   position: absolute;
-    width:27.9vw;
-    height: 28vw;
-    left: 65.8vw;
-    top: 23.4vw;
+    width: 21.44vw;
+    height: 22.4vw;
+    left: 60.64vw;
+    top: 18.72vw;
     object-fit: cover;
     border-radius: 20px;
 }
@@ -724,9 +724,9 @@ header{
 #prod-div{
   position: absolute;
     width: 100%;
-    height: 68vw;
+    height: 54.4vw;
     left: 0px;
-    top: 114.7vw;
+    top: 91.76vw;
   
     background: #DEEEE1;
     border-radius: 0px;
