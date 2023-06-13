@@ -734,32 +734,32 @@ header{
 
 #single-src {
   position: absolute;
-  width: 41vw;
-  height: 3.4375vw;
-  left: 7.23vw;
-  top: 7.7vw;
+  width: 32.8vw;
+/*   height: 3.4375vw; */
+  left: 8.676vw;
+  top: 6.16vw;
   color: #38E65F;
   
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
-  font-size: 3.2vw;
+  font-size: 2.56vw;
   line-height: 120%;
 }
 
 #comb{
   position: absolute;
-    width: 43vw;
+    width: 34.4vw;
     /* height: 52px; */
-    left: 7.23vw;
-    top: 16.1vw;
+    left: 8.676vw;
+    top: 12.88vw;
   
     /* Paragraph */
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.1vw;
+    font-size: 0.88vw;
     line-height: 160%;
     /* or 26px */
   
@@ -771,15 +771,15 @@ header{
 
 #ind-lea{
   position: absolute;
-    width: 24vw;
+    width: 19.2vw;
     /* height: 51px; */
-    left: 7.23vw;
-    top: 21vw;
+    left: 8.676vw;
+    top: 16.8vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 2.3vw;
+    font-size: 1.84vw;
     line-height: 160%;
     /* or 51px */
   
@@ -789,17 +789,17 @@ header{
 
 #lea-dem{
   position: absolute;
-    width: 38vw;
+    width: 30.4vw;
     /* height: 44px; */
-    left: 7.23vw;
-    top: 24.45vw;
+    left: 8.676vw;
+    top: 19.56vw;
   
     /* Paragraph */
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.14vw;
+    font-size: 0.912vw;
     line-height: 160%;
     /* or 26px */
   
@@ -809,15 +809,15 @@ header{
 
 #q-br{
   position: absolute;
-    width: 15vw;
+/*     width: 15vw; */
     /* height: 51px; */
-    left: 7.1vw;
-    top: 28vw;
+    left: 8.676vw;
+    top: 22.4vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 2.3vw;
+    font-size: 1.84vw;
     line-height: 160%;
     /* or 51px */
   
@@ -827,17 +827,17 @@ header{
 
 #cust-cho{
   position: absolute;
-    width: 31vw;
+    width: 24.8vw;
     /* height: 44px; */
-    left: 7.23vw;
-    top: 31.9vw;
+    left: 8.676vw;
+    top: 25.52vw;
   
     /* Paragraph */
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.165vw;
+    font-size: 0.932vw;
     line-height: 160%;
     /* or 26px */
   
@@ -848,19 +848,19 @@ header{
 #dark{
   position: absolute;
     width: 100%;
-    height: 42.5vw;
+    height: 34vw;
     left: 0px;
-    top: 182.7vw;
+    top: 146.16vw;
     
     background: #000000;
 }
 
 #chart{
   position: absolute;
-    width: 30vw;
-    height: 30vw;
-    left: 63.9vw;
-    top: 6.8vw;
+    width: 24vw;
+    height: 24vw;
+    left: 60.9vw;
+    top: 5.44vw;
     object-fit: cover;
 }
 
