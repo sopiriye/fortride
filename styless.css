@@ -1599,9 +1599,9 @@ header{
 #p-b-foot{
   position: absolute;
     width: 100%;
-    height: 65vw;
+    height: 52vw;
     /* left: 1px; */
-    top: 171.3vw;
+    top: 142vw;
   
     background: rgba(222, 238, 225, 0.5);
     /* border-radius: 0px; */
@@ -1609,26 +1609,26 @@ header{
 
 #p-b-foot-line-prod{
   position: absolute;
-    width: 6vw;
+    width: 4.8vw;
     height: 0vw;
-    left: 10vw;
-    top: 5.5vw;
+    left: 12vw;
+    top: 4.4vw;
     border: 2px solid #1D2130;
 }
 
 #p-b-prod-foot{
   position: absolute;
-    width: 52vw;
+    width: 41.6vw;
     /* height: 174px; */
-    left: 17.6vw;
-    top: 8.8vw;
+    left: 21.12vw;
+    top: 7.04vw;
   
     /* H2 */
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 3.3vw;
+    font-size: 2.64vw;
     line-height: 120%;
     /* or 58px */
   
@@ -1643,7 +1643,7 @@ header{
   width: 23.6vw;
   height: 2vw;
   left: 23.4vw;
-  top: 31.3vw;
+  top: 25.04vw;
   border: none;
   border-bottom: 1px solid #000000;
   font-size: 1vw;
@@ -1656,7 +1656,7 @@ header{
   width: 26.95vw;
   height: 2vw;
   left: 49.2vw;
-  top: 31.4vw;
+  top: 25.04vw;
   border: none;
   border-bottom: 1px solid #000000;
   font-size: 1vw;
@@ -1669,7 +1669,7 @@ header{
   width: 23.6vw;
   height: 2vw;
   left: 23.4vw;
-  top: 37.8vw;
+  top: 30.24vw;
   border: none;
   border-bottom: 1px solid #000000;
   font-size: 1vw;
@@ -1682,7 +1682,7 @@ header{
   width: 26.95vw;
   height: 2vw;
   left: 49.2vw;
-  top: 37.8vw;
+  top: 30.24vw;
   background: none;
   border: none;
   border-bottom: 1px solid #000000;
@@ -1695,7 +1695,7 @@ header{
   width: 52.7vw;
   height: 10.1vw;
   left: 23.4vw;
-  top: 43.3vw;
+  top: 34.64vw;
 
   border: 1px solid #000000;
   border-radius: 4px;
@@ -1710,7 +1710,7 @@ header{
   /* width: 60px; */
   /* height: 19px; */
   left: 23.4vw;
-  top: 28.9vw;
+  top: 23.12vw;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -1732,7 +1732,7 @@ header{
   /* width: 60px; */
   /* height: 19px; */
   left: 49.2vw;
-  top: 28.9vw;
+  top: 22.12vw;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -1754,7 +1754,7 @@ header{
   /* width: 60px; */
   /* height: 19px; */
   left: 23.4vw;
-  top: 35.4vw;
+  top: 28.32vw;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -1776,7 +1776,7 @@ header{
   /* width: 60px; */
   /* height: 19px; */
   left: 49.2vw;
-  top: 35.4vw;
+  top: 28.32vw;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -1798,7 +1798,7 @@ header{
   /* width: 50px; */
   /* height: 19px; */
   left: 23.4vw;
-  top: 41.8vw;
+  top: 33.44vw;
 
   font-family: 'Roboto';
   font-style: normal;
@@ -1820,14 +1820,14 @@ header{
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 0.9vw 2.2vw;
+  padding: 0.72vw 1.76vw;
   /* gap: 10px; */
 
   position: absolute;
   /* width: 146px; */
   /* height: 51px; */
   left: 43.6vw;
-  top: 55.3vw;
+  top: 46.24vw;
 
   background: #208235;
   backdrop-filter: blur(40px);
@@ -1885,12 +1885,12 @@ header{
       position: absolute;
       /* width: 12vw; */
       /* height: 19px; */
-      left: 17.5vw;
-      top: 5vw;
+      left: 21vw;
+      top: 4vw;
       font-family: 'Roboto';
       font-style: normal;
       font-weight: 700;
-      font-size: 1vw;
+      font-size: 0.8vw;
       /* line-height: 19px; */
       letter-spacing: 2px;
       text-transform: uppercase;
