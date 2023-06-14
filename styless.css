@@ -1147,11 +1147,36 @@ header{
   position: absolute;
     height: 26vw;
     
-    top: 194.04vw;
+    
     width: 100%;
   
     background: #155E24;
 }
+
+.l-t-foot{
+    top: 300vw;
+}
+
+.p-t-foot{
+    top: 194.04vw;
+}
+
+.p2-t-foot{
+    top: 194.04vw;
+}
+
+.ca-t-foot{
+    top: 300vw;
+}
+
+.co-t-foot{
+    top: 300vw;
+}
+
+.ab-t-foot{
+    top: 300vw;
+}
+
 
 #p-head-bg{
   background: url("images/prod\ top\ bg.png");
