@@ -1220,10 +1220,10 @@ header{
 
 #p-line-prod{
   position: absolute;
-    width: 6vw;
+    width: 4.8vw;
     height: 0vw;
     left: 7.4vw;
-    top: 30.5vw;
+    top: 24.5vw;
     border: 2px solid #1D2130;
   }
 
@@ -1608,17 +1608,17 @@ header{
 }
 #p2-green-left{
   position: absolute;
-    width: 4.1vw;
-    height: 4.1vw;
-    left: 83.3vw;
-    top: 158.8vw;
+    width: 3.28vw;
+    height: 3.28vw;
+    left: 75.64vw;
+    top: 127.04vw;
 }
 #p2-grey-right{
   position: absolute;
-    width: 4.1vw;
-    height: 4.1vw;
-    left: 88.1vw;
-    top: 158.8vw;
+    width: 3.28vw;
+    height: 3.28vw;
+    left: 79.48vw;
+    top: 127.04vw;
 }
 
 #p-b-foot{
@@ -1926,7 +1926,7 @@ header{
           position: absolute;
           width: 21.6vw;
           height: 29.6vw;
-          left: 13.9vw;
+          left: 14.9vw;
           top: 37.52vw;
           object-fit: cover;
           border-radius: 20px;
@@ -1937,7 +1937,7 @@ header{
           position: absolute;
           /* width: 204px; */
           /* height: 30px; */
-          left: 12.3vw;
+          left: 17.9vw;
           top: 68.08vw;
     
           font-family: 'Roboto';
@@ -1956,7 +1956,7 @@ header{
           position: absolute;
           width: 17.6vw;
           /* height: 105px; */
-          left: 10.5vw;
+          left: 16.5vw;
           top: 70.96vw;
     
           font-family: 'Roboto';
@@ -1975,7 +1975,7 @@ header{
           position: absolute;
           width: 21.6vw;
           height: 29.6vw;
-          left: 37.35vw;
+          left: 38.35vw;
           top: 37.52vw;
           object-fit: cover;
           border-radius: 20px;
@@ -1986,7 +1986,7 @@ header{
           position: absolute;
           width: 16vw;
           /* height: 30px; */
-          left: 40.35vw;
+          left: 41.35vw;
           top: 68.08vw;
     
           font-family: 'Roboto';
@@ -2005,7 +2005,7 @@ header{
           position: absolute;
           width: 17.6vw;
           /* height: 105px; */
-          left: 38.9vw;
+          left: 40.2vw;
           top: 71.12vw;
     
           font-family: 'Roboto';
@@ -2024,7 +2024,7 @@ header{
           position: absolute;
           width: 21.6vw;
           height: 29.6vw;
-          left: 66.6vw;
+          left: 61.6vw;
           top: 37.52vw;
           object-fit: cover;
           border-radius: 20px;
@@ -2035,7 +2035,7 @@ header{
           position: absolute;
           width: 17.6vw;
           /* height: 30px; */
-          left: 69.2vw;
+          left: 63.2vw;
           top: 68.08vw;
     
           font-family: 'Roboto';
@@ -2054,7 +2054,7 @@ header{
           position: absolute;
           width: 18.4vw;
           /* height: 105px; */
-          left: 68.3vw;
+          left: 63.3vw;
           top: 71.04vw;
     
           font-family: 'Roboto';
@@ -2073,7 +2073,7 @@ header{
           position: absolute;
           width: 21.6vw;
           height: 29.6vw;
-          left: 7.9vw;
+          left: 14.9vw;
           top: 81.92vw;
           object-fit: cover;
           border-radius: 20px;
@@ -2084,7 +2084,7 @@ header{
           position: absolute;
           width: 18.4vw;
           /* height: 30px; */
-          left: 9.7vw;
+          left: 16.7vw;
           top: 112.56vw;
     
           font-family: 'Roboto';
@@ -2103,7 +2103,7 @@ header{
           position: absolute;
           width: 19.2vw;
           /* height: 105px; */
-          left: 8.7vw;
+          left: 15.4vw;
           top: 116.08vw;
     
           font-family: 'Roboto';
@@ -2122,7 +2122,7 @@ header{
           position: absolute;
           width: 21.6vw;
           height: 29.6vw;
-          left: 37.35vw;
+          left: 38.35vw;
           top: 81.92vw;
           object-fit: cover;
           border-radius: 20px;
@@ -2133,7 +2133,7 @@ header{
           position: absolute;
           /* width: 204px; */
           /* height: 30px; */
-          left: 39.4vw;
+          left: 40.7vw;
           top: 112.56vw;
     
           font-family: 'Roboto';
@@ -2152,10 +2152,10 @@ header{
           position: absolute;
           width: 22.16vw;
           /* height: 105px; */
-          left: 36.9vw;
+          left: 37.9vw;
           top: 114.8vw;
     
-          font-family: 'Roboto';
+          font-famiy: 'Roboto';
           font-style: normal;
           font-weight: 400;
           font-size: 0.872vw;
@@ -2171,7 +2171,7 @@ header{
           position: absolute;
           width: 21.6vw;
           height: 29.6vw;
-          left: 66.6vw;
+          left: 61.6vw;
           top: 81.92vw;
           object-fit: cover;
           border-radius: 20px;
@@ -2182,7 +2182,7 @@ header{
           position: absolute;
           /* width: 204px; */
           /* height: 30px; */
-          left: 70.4vw;
+          left: 64.7vw;
           top: 112.56vw;
     
           font-family: 'Roboto';
@@ -2201,7 +2201,7 @@ header{
           position: absolute;
           width: 21.6vw;
           /* height: 105px; */
-          left: 67vw;
+          left: 61vw;
           top: 114.8vw;
     
           font-family: 'Roboto';
@@ -2220,7 +2220,7 @@ header{
           position: absolute;
           /* width: 342px; */
           /* height: 105px; */
-          left: 17.3vw;
+          left: 21.1vw;
           top: 69.88vw;
     
           font-family: 'Roboto';
@@ -2239,8 +2239,8 @@ header{
           position: absolute;
           /* width: 342px; */
           /* height: 105px; */
-          left: 72.3vw;
-          top: 87.5vw;
+          left: 64.3vw;
+          top: 70vw;
     
           font-family: 'Roboto';
           font-style: normal;
