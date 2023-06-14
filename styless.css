@@ -4398,16 +4398,15 @@ header{
     height: 7vw;
   }
   .s-p-link{
-    
     font-size: 2.95vw;
-
+    /* width: 54px; */
   }
   .s-a-link{
-    
     font-size: 2.92vw;
+    /* width: 42px; */
     }
   #fir-head-span{
-    font-size: 5.59vw;
+    font-size: 5.59Vw;
     left: 23vw;
     top: 7vw;
   }
@@ -4432,22 +4431,49 @@ header{
   }
   #know-about{
     font-size: 2.79vw;
-    width: 29.82vw;
-    left: 40vw;
+    width: 32vw;
+    left: 37vw;
     top: 80vw;
   }
   #line-know{
     width: 22vw;
-    left: 13.5vw;
+    left: 10.5vw;
     top: 81.3vw;
   }
   #d-change{
-    
-    font-size: 3.49vw;
-    left: 40vw;
+    font-size: 4vw;
+    left: 37vw;
     top: 89.8vw;
   }
-  #slide1{
-    top: 82px;
+  #c-change {
+    font-size: 4vw;
+    width: 105px;
+    left: 36vw;
+    top: 124.99vw;
+  }
+  #pag-know{
+    font-size: 3.74vw;
+    width: 75.86vw;
+    left: 13.01vw;
+    top: 95.4vw;
+    text-align: center;
+  }
+  #peal-pag{
+    left: 11.9vw;
+    top: 130.8vw;
+    font-size: 3.74vw;
+    width: 76vw;
+    text-align: center;
+  }
+  .lm-link{
+    font-size: 4.13vw;
+    /* width: 73px; */
+  }
+  #lm-cont-link{
+    top: 161vw;
+    left: 29.4vw;
+    height: 12vw;
+    width: 40vw;
+    padding: 0;
   }
 }
