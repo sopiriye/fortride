@@ -1206,12 +1206,12 @@ header{
     position: absolute;
       /* width: 12vw; */
       /* height: 19px; */
-      left: 15.1vw;
-      top: 30vw;
+      left: 18.12vw;
+      top: 24vw;
       font-family: 'Roboto';
       font-style: normal;
       font-weight: 700;
-      font-size: 1vw;
+      font-size: 0.8vw;
       /* line-height: 19px; */
       letter-spacing: 2px;
       text-transform: uppercase;
@@ -1220,17 +1220,17 @@ header{
 
 #p-prod-check{
   position: absolute;
-    width: 65vw;
+    width: 52vw;
     /* height: 174px; */
-    left: 15.7vw;
-    top: 32.8vw;
+    left: 18.84vw;
+    top: 26.24vw;
   
     /* H2 */
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 3.3vw;
+    font-size: 2.64vw;
     line-height: 120%;
     /* or 58px */
   
@@ -1242,10 +1242,10 @@ header{
 
 #p-duplexOne-img{
   position: absolute;
-    width: 27vw;
-    height: 37vw;
-    left: 7.9vw;
-    top: 46.9vw;
+    width: 21.6vw;
+    height: 29.6vw;
+    left: 13.9vw;
+    top: 37.52vw;
     object-fit: cover;
     border-radius: 20px;
     border: 1px solid #208235;
@@ -1255,14 +1255,14 @@ header{
   position: absolute;
     /* width: 204px; */
     /* height: 30px; */
-    left: 15.4vw;
-    top: 85.1vw;
+    left: 19.98vw;
+    top: 68.08vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 800;
-    font-size: 1.5vw;
-    line-height: 150%;
+    font-size: 1.2vw;
+/*     line-height: 150%; */
     /* identical to box height, or 30px */
   
     text-align: center;
@@ -1272,15 +1272,15 @@ header{
 
 #p-duplexOne-p{
   position: absolute;
-    width: 25vw;
+    width: 20vw;
     /* height: 105px; */
-    left: 9.1vw;
-    top: 87.65vw;
+    left: 15.1vw;
+    top: 70.12vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.15vw;
+    font-size: 0.92vw;
     line-height: 150%;
     /* or 21px */
   
@@ -1290,10 +1290,10 @@ header{
 }
 #p-specialDesign-img{
   position: absolute;
-    width: 27vw;
-    height: 37vw;
-    left: 37.35vw;
-    top: 46.9vw;
+    width: 21.6vw;
+    height: 29.6vw;
+    left: 38.35vw;
+    top: 37.52vw;
     object-fit: cover;
     border-radius: 20px;
     border: 1px solid #208235;
@@ -1303,13 +1303,13 @@ header{
   position: absolute;
     width: 22vw;
     /* height: 30px; */
-    left: 40.35vw;
-    top: 85.1vw;
+    left: 38.35vw;
+    top: 68.08vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 800;
-    font-size: 1.45vw;
+    font-size: 1.16vw;
     line-height: 150%;
     /* identical to box height, or 30px */
   
@@ -1320,15 +1320,15 @@ header{
 
 #p-specialDesign-p{
   position: absolute;
-    width: 28vw;
+    width: 22.4vw;
     /* height: 105px; */
-    left: 37.55vw;
-    top: 89.9vw;
+    left: 37.95vw;
+    top: 71.92vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.15vw;
+    font-size: 0.92vw;
     line-height: 150%;
     /* or 21px */
   
@@ -1338,10 +1338,10 @@ header{
 }
 #p-ultramount335-img{
   position: absolute;
-    width: 27vw;
-    height: 37vw;
-    left: 66.6vw;
-    top: 46.9vw;
+    width: 21.6vw;
+    height: 29.6vw;
+    left: 62.6vw;
+    top: 37.52vw;
     object-fit: cover;
     border-radius: 20px;
     border: 1px solid #208235;
@@ -1349,15 +1349,15 @@ header{
 
 #p-ultramount335-h3{
   position: absolute;
-    width: 22vw;
+    width: 17.6vw;
     /* height: 30px; */
-    left: 69.2vw;
-    top: 85.1vw;
+    left: 65.1vw;
+    top: 68.08vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 800;
-    font-size: 1.45vw;
+    font-size: 1.16vw;
     line-height: 150%;
     /* identical to box height, or 30px */
   
@@ -1368,15 +1368,15 @@ header{
 
 #p-ultramount335-p{
   position: absolute;
-    width: 28vw;
+    width: 22.4vw;
     /* height: 105px; */
-    left: 65.9vw;
-    top: 89.9vw;
+    left: 62.9vw;
+    top: 71.92vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.15vw;
+    font-size: 0.92vw;
     line-height: 150%;
     /* or 21px */
   
@@ -1386,10 +1386,10 @@ header{
 }
 #p-kicTrident-img{
   position: absolute;
-    width: 27vw;
-    height: 37vw;
-    left: 7.9vw;
-    top: 104.4vw;
+    width: 21.6vw;
+    height: 29.6vw;
+    left: 13.9vw;
+    top: 83.52vw;
     object-fit: cover;
     border-radius: 20px;
     border: 1px solid #208235;
@@ -1397,15 +1397,15 @@ header{
 
 #p-kicTrident-h3{
   position: absolute;
-    width: 23vw;
+    width: 18.4vw;
     /* height: 30px; */
-    left: 8.7vw;
-    top: 142.8vw;
+    left: 15.3vw;
+    top: 114.24vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 800;
-    font-size: 1.45vw;
+    font-size: 1.16vw;
     line-height: 150%;
     /* identical to box height, or 30px */
   
@@ -1416,15 +1416,15 @@ header{
 
 #p-kicTrident-p{
   position: absolute;
-    width: 26vw;
+    width: 20.8vw;
     /* height: 105px; */
-    left: 7.9vw;
-    top: 149.6vw;
+    left: 14.3vw;
+    top: 119.68vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.01vw;
+    font-size: 0.808vw;
     line-height: 150%;
     /* or 21px */
   
@@ -1434,10 +1434,10 @@ header{
 }
 #p-guniteValue-img{
   position: absolute;
-    width: 27vw;
-    height: 37vw;
-    left: 37.35vw;
-    top: 104.4vw;
+    width: 21.6vw;
+    height: 29.6vw;
+    left: 38.35vw;
+    top: 83.52vw;
     object-fit: cover;
     border-radius: 20px;
     border: 1px solid #208235;
@@ -1447,13 +1447,13 @@ header{
   position: absolute;
     /* width: 204px; */
     /* height: 30px; */
-    left: 40.4vw;
-    top: 142.8vw;
+    left: 41.4vw;
+    top: 114.24vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 800;
-    font-size: 1.5vw;
+    font-size: 1.2vw;
     line-height: 150%;
     /* identical to box height, or 30px */
   
@@ -1464,15 +1464,15 @@ header{
 
 #p-guniteValue-p{
   position: absolute;
-    width: 27.7vw;
-    height: 105px;
-    left: 36.9vw;
-    top: 147.4vw;
+    width: 22.16vw;
+/*     height: 105px; */
+    left: 38.2vw;
+    top: 117.92vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.09vw;
+    font-size: 0.872vw;
     line-height: 150%;
     /* or 21px */
   
@@ -1482,10 +1482,10 @@ header{
 }
 #p-kic60000-img{
   position: absolute;
-    width: 27vw;
-    height: 37vw;
-    left: 66.6vw;
-    top: 104.4vw;
+    width: 21.6vw;
+    height: 29.6vw;
+    left: 62.6vw;
+    top: 83.52vw;
     object-fit: cover;
     border-radius: 20px;
     border: 1px solid #208235;
@@ -1512,15 +1512,15 @@ header{
 
 #p-kic60000-p{
   position: absolute;
-    width: 27vw;
+    width: 23.4vw;
     /* height: 105px; */
-    left: 67vw;
-    top: 146.15vw;
+    left: 62.6vw;
+    top: 116.92vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 1.02vw;
+    font-size: 0.816vw;
     line-height: 150%;
     /* or 21px */
   
@@ -1533,13 +1533,13 @@ header{
   position: absolute;
     /* width: 342px; */
     /* height: 105px; */
-    left: 11.9vw;
-    top: 147.8vw;
+    left: 16.9vw;
+    top: 118.24vw;
   
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 600;
-    font-size: 1.03vw;
+    font-size: 0.824vw;
     line-height: 150%;
     /* or 21px */
   
@@ -1552,8 +1552,8 @@ header{
   position: absolute;
     /* width: 342px; */
     /* height: 105px; */
-    left: 48.2vw;
-    top: 146.15vw;
+    left: 46.8vw;
+    top: 116.92vw;
   
     font-family: 'Roboto';
     font-style: normal;
@@ -1569,17 +1569,17 @@ header{
 
 #p1-grey-left{
   position: absolute;
-    width: 4.1vw;
-    height: 4.1vw;
-    left: 83.3vw;
-    top: 158.8vw;
+    width: 3.28vw;
+    height: 3.28vw;
+    left: 75.3vw;
+    top: 127.04vw;
 }
 #p1-green-right{
   position: absolute;
-    width: 4.1vw;
-    height: 4.1vw;
-    left: 88.1vw;
-    top: 158.8vw;
+    width: 3.28vw;
+    height: 3.28vw;
+    left: 79.1vw;
+    top: 127.04vw;
 }
 #p2-green-left{
   position: absolute;
