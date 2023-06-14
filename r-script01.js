@@ -14,5 +14,5 @@ mainIndx = 0;
 
    if(mainIndx > t.length){mainIndx = 1}    
    t[mainIndx-1].style.display = "block";  
-   setTimeout(change, 4000000); // Change image every 4000 seconds
+   setTimeout(change, 3000); // Change image every 4000 seconds
    }
