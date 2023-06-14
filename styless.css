@@ -25,12 +25,12 @@ header{
 }
 .nav-bar ul li a{
   display: block;
-  color:#525560;
+  color: #38E65F;
   font-size: 20px;
   font-family: 'Roboto';
   text-transform: capitalize;
   font-style: normal;
-  margin: 0 5px;
+  margin: 16px 10px;
   transition: .2s;
 }
 
@@ -46,7 +46,7 @@ header{
   width: 168px;
   height: 66px;
   left: 5vw;
-  top: 1vw;
+  top: -1vw;
 }
 .hamburger{
   display: none;
@@ -109,7 +109,7 @@ header{
   height: 37.2vw;
   /* width: 78.125vw; */
   width: 100%;
-  top: 85px;
+  top: 60px;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -119,7 +119,7 @@ header{
   height: 37.2vw;
   /* width: 78.125vw; */
   width: 100%;
-  top: 85px;
+  top: 60px;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -129,7 +129,7 @@ header{
   height: 37.2vw;
   /* width: 78.125vw; */
   width: 100%;
-  top: 85px;
+  top: 60px;
   background-size: cover;
   background-repeat: no-repeat;
 }
