@@ -4637,5 +4637,57 @@ header{
     height: 10vw;
     left: 30.5vw;
   }
+  #dark{
+    height: 124vw;
+    top: 579vw;
+  }
+  #single-src{
+    font-size: 5.91vw;
+    width: 52vw;
+    top: 12vw;
+/*     left: 22.4vw; */
+    text-align: center;
+  }
+  #chart{
+    display: none;
+  }
+  #comb{
+    font-size: 4.04vw;
+    width: 77vw;
+    top: 28vw;
+    left: 12.3vw;
+    text-align: center;
+    /* color: #FFFFFF; */
+  }
+  #ind-lea{
+    color: #38E65F;
+    font-size: 5.3vw;
+/*     width: 204px; */
+    top: 57vw;
+    left: 22.9vw;
+/*     text-align: center; */
+  }
+  #lea-dem{
+    font-size: 4.04vw;
+    width: 68vw;
+    top: 65vw;
+    left: 15.3vw;
+    text-align: center;
+  }
+  #q-br{
+    color: #38E65F;
+    font-size: 5.3vw;
+    /*     width: 204px; */
+    top: 81vw;
+    left: 32.9vw;
+    /*     text-align: center; */
+  }
+  #cust-cho{
+    font-size: 4.04vw;
+    width: 90vw;
+    top: 90vw;
+    left: 5.3vw;
+    text-align: center;
+  }
 
 }
