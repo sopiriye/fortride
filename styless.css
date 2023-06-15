@@ -771,7 +771,7 @@ header{
 
 #ind-lea{
   position: absolute;
-    width: 19.2vw;
+/*     width: 19.2vw; */
     /* height: 51px; */
     left: 8.676vw;
     top: 16.8vw;
@@ -4645,8 +4645,8 @@ header{
     font-size: 5.91vw;
     width: 52vw;
     top: 12vw;
-/*     left: 22.4vw; */
-    text-align: center;
+    left: 24.4vw;
+/*     text-align: center; */
   }
   #chart{
     display: none;
