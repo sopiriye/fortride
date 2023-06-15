@@ -4418,12 +4418,54 @@ header{
     top: 14.6vw;
     line-height: 143%;
   }
+  #sec-head-span{
+    font-size: 5.59Vw;
+    left: 24vw;
+    top: 7vw;
+  }
+  #sec-head-p{
+    width: 67vw;
+    font-size: 3.26vw;
+    text-align: center;
+    left: 17vw;
+    top: 14.6vw;
+    line-height: 143%;
+  }
+  #thi-head-span{
+    font-size: 5.59Vw;
+    left: 33vw;
+    top: 7vw;
+  }
+  #thi-head-p{
+    width: 88vw;
+    font-size: 3.26vw;
+    text-align: center;
+    left: 7vw;
+    top: 14.6vw;
+    line-height: 143%;
+  }
   #s-p-cont-link-1{
-    top: 5vw;
+    top: 11vw;
     left: 23.4vw;
   }
   #s-a-cont-link-1{
-    top: 5vw;
+    top: 11vw;
+    left: 45.1vw;
+  }
+  #s-p-cont-link-2{
+    top: 11vw;
+    left: 23.4vw;
+  }
+  #s-a-cont-link-2{
+    top: 11vw;
+    left: 45.1vw;
+  }
+  #s-p-cont-link-3{
+    top: 11vw;
+    left: 23.4vw;
+  }
+  #s-a-cont-link-3{
+    top: 11vw;
     left: 45.1vw;
   }
   #video{
@@ -4447,7 +4489,7 @@ header{
   }
   #c-change {
     font-size: 4vw;
-    width: 105px;
+    /* width: 105px; */
     left: 36vw;
     top: 124.99vw;
   }
@@ -4475,5 +4517,81 @@ header{
     height: 12vw;
     width: 40vw;
     padding: 0;
+  }
+  #slide1{
+    top: 78px;
+    height: 50vw;
+  }
+  #slide2{
+    top: 78px;
+    height: 50vw;
+  }
+  #slide3{
+    top: 78px;
+    height: 50vw;
+  }
+  #brand-work{
+    top: 184vw;
+    width: 50vw;
+    left: 27vw;
+    font-size: 3.2vw;
+  }
+  #chevrolet{
+    width: 20vw;
+    /* height: 35px; */
+    left: 12vw;
+    top: 192vw;
+  }
+  #aston-martin{
+    width: 20vw;
+    /* height: 35px; */
+    left: 40vw;
+    top: 192vw;
+  }
+  #gmc{
+    width: 20vw;
+    /* height: 35px; */
+    left: 69vw;
+    top: 192vw;
+  }
+  #ducati{
+    width: 14vw;
+    height: 15vw;
+    left: 14.5vw;
+    top: 207vw;
+  }
+  #cadillac-crest{
+    width: 20vw;
+    /* height: 35px; */
+    left: 39.7vw;
+    top: 209vw;
+  }
+  #tesla{
+    width: 20vw;
+    /* height: 35px; */
+    left: 69vw;
+    top: 210vw;
+  }
+  #prod-div{
+    height: 350vw;
+    top: 239vw;
+  }
+  #line-prod{
+    width: 22vw;
+    left: 10.5vw;
+  }
+  #our-prod{
+    /* width: 119.66px; */
+    font-size: 3.22vw;
+    left: 37vw;
+    top: 10vw;
+  }
+  #prod-check{
+    width: 234px;
+    left: ;
+    font-size: 18px;
+    top: 17vw;
+  
+
   }
 }
