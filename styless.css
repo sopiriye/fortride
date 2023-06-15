@@ -4573,25 +4573,69 @@ header{
     top: 210vw;
   }
   #prod-div{
-    height: 350vw;
+    height: 340vw;
     top: 239vw;
   }
   #line-prod{
     width: 22vw;
     left: 10.5vw;
+    top: 11.5vw;
   }
   #our-prod{
     /* width: 119.66px; */
     font-size: 3.22vw;
     left: 37vw;
-    top: 10vw;
+    top: 11vw;
   }
   #prod-check{
-    width: 234px;
-    left: ;
-    font-size: 18px;
+    width: 226.04px;
+    left: 19vw;
+    font-size: 4.84vw;
     top: 17vw;
-  
-
+    text-align: center;
   }
+  #drum-rotor-a-landing{
+    width: 70vw;
+    height: 70vw;
+    top: 39vw;
+    left: 15vw;
+  }
+  #drum-rotor-a-pag-landing{
+    width: 51vw;
+    font-size: 4.84vw;
+    top: 112vw;
+    left: 26vw;
+  }
+  #brake-drum-landing{
+    width: 70vw;
+    height: 70vw;
+    top: 133vw;
+    left: 15vw;
+  }
+  #brake-drum-pag-landing{
+    width: 36vw;
+    font-size: 4.84vw;
+    top: 206vw;
+    left: 32.5vw;
+  }
+  #brake-rotor-landing{
+    width: 70vw;
+    height: 70vw;
+    top: 227vw;
+    left: 15vw;
+  }
+  #brake-rotor-pag-landing{
+    width: 36vw;
+    font-size: 4.84vw;
+    top: 300vw;
+    left: 32.5vw;
+  }
+  #vm-cont-link{
+    top: 322vw;
+    padding: 0;
+    width: 40vw;
+    height: 10vw;
+    left: 30.5vw;
+  }
+
 }
