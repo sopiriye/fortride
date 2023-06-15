@@ -4646,7 +4646,7 @@ header{
     width: 52vw;
     top: 12vw;
     left: 24.4vw;
-/*     text-align: center; */
+    /* text-align: center; */
   }
   #chart{
     display: none;
@@ -4662,10 +4662,10 @@ header{
   #ind-lea{
     color: #38E65F;
     font-size: 5.3vw;
-/*     width: 204px; */
+    /*     width: 204px; */
     top: 57vw;
     left: 22.9vw;
-/*     text-align: center; */
+    /* text-align: center; */
   }
   #lea-dem{
     font-size: 4.04vw;
@@ -4709,6 +4709,64 @@ header{
      width: 32vw;
      height: 10vw;
      left: 23.5vw;
-   }  
+   }
+    #l-lname{
+      display: none;
+    }
+    #lname{
+      display: none;
+    }
+    #subject{
+      display: none;
+    }
+    #l-subject{
+      display: none;
+    }
+    #l-fname{
+      top: 763vw;
+      font-size: 2.69vw;
+      width: 48.04px;
+      left: 16vw;
+    }
+    #fname{
+      top: 772vw;
+      width: 69vw;
+      left: 16vw;
+      height: 5vw;
+      font-size: 4vw;
+    }
+    #l-email{
+      top: 783vw;
+      font-size: 2.69vw;
+      width: 48.04px;
+      left: 16vw;
+    }
+    #email{
+      top: 792vw;
+      width: 69vw;
+      left: 16vw;
+      height: 5vw;
+      font-size: 4vw;
+    }
+    #l-textarea{
+      font-size: 4vw;
+      top: 805vw;
+      left: 16vw;
+    }
+    #textarea{
+      top: 811vw;
+      left: 16vw;
+      font-size: 2vw;
+      width: 71vw;
+      height: 30vw;
+    }
+    #but-cont-landing{
+      width: 36vw;
+      height: 10vw;
+      padding: 0;
+      background-color: #000000;
+      left: 33vw;
+      top: 849vw;
+    }  
 
 }
