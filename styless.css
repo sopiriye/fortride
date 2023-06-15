@@ -4689,5 +4689,26 @@ header{
     left: 5.3vw;
     text-align: center;
   }
+  #no-ride{
+    top: 710vw;
+    height: 42.5vw;
+    width: 79%;
+    left: 10.3vw;
+    background: url("images/BG_mobile.png");
+  }
+  #bold-fort{
+    font-size: 4.3vw;
+    width: 52vw;
+    top: 8vw;
+    left: 14.3vw;
+    text-align: center;
+  }
+   #vp-cont-link{
+     top: 27vw;
+     padding: 0;
+     width: 32vw;
+     height: 10vw;
+     left: 23.5vw;
+   }  
 
 }
