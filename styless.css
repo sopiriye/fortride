@@ -4725,7 +4725,7 @@ header{
     #l-fname{
       top: 763vw;
       font-size: 2.69vw;
-      width: 48.04px;
+/*       width: 48.04px; */
       left: 16vw;
     }
     #fname{
@@ -4937,5 +4937,79 @@ header{
      left: 53vw;
      top: 962vw;
    }
-
+   #p-b-foot{
+     top: 1000vw;
+     height: 130vw;
+   }
+   #p-b-foot-line-prod{
+    display: none;
+  }
+  
+   #p-our-cust{
+     display: none;
+   }
+   #p-b-prod-foot{
+     width: 64vw;
+     font-size: 3.5vw;
+     top: 5vw;
+     left: 10vw;
+  }
+  #p-l-lname{
+    display: none;
+  }
+  #p-lname{
+    display: none;
+  }
+  #p-l-subject{
+    display: none;
+  }
+  #p-subject{
+    display: none;
+  }
+  #p-l-fname{
+    font-size: 2.69vw;
+    left: 13vw;
+    top: 25vw;
+    /*     width: 48.04px; */
+  }
+  #p-l-email{
+    font-size: 2.69vw;
+    left: 13vw;
+    top: 42vw;
+    /*     width: 48.04px; */
+  }
+  #p-fname{
+    width: 69vw;
+    left: 13vw;
+    top: 31vw;
+    height: 6vw;
+    font-size: 4vw;
+  }
+  #p-email{
+    width: 69vw;
+    left: 13vw;
+    top: 50vw;
+    height: 6vw;
+    font-size: 4vw;
+  }
+  #p-l-textarea{
+    font-size: 4vw;
+    left: 13vw;
+    top: 61vw;
+  }
+  #p-textarea{
+    top: 67vw;
+    height: 40vw;
+    width: 69vw;
+    left: 13vw;
+    font-size: 4vw;
+  }
+  #p-but-cont{
+    padding: 0;
+    width: 35vw;
+    height: 10vw;
+    top: 112vw;
+    left: 30vw;
+    background: #1D2130;;
+  }
 }
