@@ -4768,10 +4768,7 @@ header{
       left: 33vw;
       top: 849vw;
     }
-    #l-navz-foot{
-      top: 879vw;
-      height: ;
-    }
+    
     #p-head-bg{
     background: url("images/BG_mobile-p.png");
     background-repeat:no-repeat;
@@ -5009,7 +5006,10 @@ header{
     width: 35vw;
     height: 10vw;
     top: 112vw;
-    left: 30vw;
+    left: 33vw;
     background: #1D2130;;
   }
+  .p-t-foot{
+     top: 1130vw;
+   }  
 }
