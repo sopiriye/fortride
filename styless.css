@@ -4772,5 +4772,170 @@ header{
       top: 879vw;
       height: ;
     }
+    #p-head-bg{
+    background: url("images/BG_mobile-p.png");
+    background-repeat:no-repeat;
+    height: 37vw;
+    top: 48px;
+    /*     background-size: ; */
+    background-size: cover;
+  }
+  
+  #p-prod-head{
+    left: 42vw;
+    top: 13vw;
+    /* width: 77px; */
+    font-size: 5vw;
+  }
+  #p-prod-pagg{
+    left: 22vw;
+    top: 20vw;
+    width: 54vw;
+    font-size: 2.26vw;
+  }
+  #p-line-prod{
+    width: 22vw;
+    top: 40.5vw;
+    left: 10vw;
+  }
+  #p-our-prod{
+    left: 37vw;
+    top: 39.1vw;
+    /* width: 119.66px; */
+    font-size: 3.22vw;
+  }
+  #p-prod-check{
+    left: 18vw;
+    top: 47vw;
+    width: 240.06px;
+    font-size: 5.21vw;
+    text-align: center;
+  }
+  #p-duplexOne-img{
+    width: 70vw;
+    height: 90vw;
+    top: 80vw;
+    left: 15vw;
+  }
+  #p-duplexOne-h3{
+    /* width: 174.63px; */
+    left: 26.9vw;
+    top: 172vw;
+    font-size: 5.37vw;
+  }
+  #p-duplexOne-p{
+    width: 212.05px;
+    left: 21.9vw;
+    top: 178vw;
+    font-size: 3.38vw;
+  }
+  #p-specialDesign-img{
+    width: 70vw;
+    height: 90vw;
+    top: 218vw;
+    left: 15vw;
+  }
+  #p-specialDesign-h3{
+    width: 77vw;
+    left: 11.9vw;
+    top: 309vw;
+    font-size: 5.37vw;
+  }
+  #p-specialDesign-p{
+    width: 61vw;
+    left: 21.9vw;
+    top: 325vw;
+    font-size: 3.38vw;
+  }
+  #p-ultramount335-img{
+    width: 70vw;
+    height: 90vw;
+    top: 365vw;
+    left: 15vw;
+  }
+  #p-ultramount335-h3{
+    width: 62vw;
+    left: 19.5vw;
+    top: 457vw;
+    font-size: 5.37vw;
+  }
+  #p-ultramount335-p{
+    width: 52vw;
+    left: 24.9vw;
+    top: 473vw;
+    font-size: 3.38vw;
+  }
+  #p-kicTrident-img{
+    width: 70vw;
+    height: 90vw;
+    top: 519vw;
+    left: 15vw;
+  }
+  #p-kicTrident-h3{
+    width: 81vw;
+    left: 9.3vw;
+    top: 611vw;
+    font-size: 5.37vw;
+  }
+  #p-kicTrident-p{
+    width: 55vw;
+    left: 23.1vw;
+    top: 628vw;
+    font-size: 3.38vw;
+  }
+  #p-guniteValue-img{
+    width: 70vw;
+    height: 90vw;
+    top: 680vw;
+    left: 15vw;
+  }
+  #p-guniteValue-h3{
+    width: 75vw;
+    left: 12.1vw;
+    top: 772vw;
+    font-size: 5.37vw;
+  }
+  #p-guniteValue-p{
+    width: 56vw;
+    left: 22.2vw;
+    top: 780vw;
+    font-size: 3.38vw;
+  }
+  #p-kic60000-img{
+    width: 70vw;
+    height: 90vw;
+    top: 821vw;
+    left: 15vw;
+  }
+  #p-kic60000-h3{
+    /* width: 174.63px; */
+    left: 13.9vw;
+    top: 913vw;
+    font-size: 5.37vw;
+  }
+  #p-kic60000-p{
+    width: 55vw;
+    left: 22.9vw;
+    top: 922vw;
+    font-size: 3.38vw;
+  }
+  #p-kicTrident-h6{
+    display: none;
+  }
+  #p-guniteValue-h6{
+    display: none;
+  }
+  #p1-grey-left{
+    width: 10vw;
+    height: 10vw;
+    left: 40vw;
+    top: 957vw;
+  }
+   #p1-green-right{
+     width: 10vw;
+     height: 10vw;
+     left: 53vw;
+     top: 957vw;
+   }
 
 }
