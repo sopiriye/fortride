@@ -4807,7 +4807,7 @@ header{
   #p-prod-check{
     left: 18vw;
     top: 47vw;
-    width: 240.06px;
+    width: 66vw;
     font-size: 5.21vw;
     text-align: center;
   }
@@ -4929,13 +4929,13 @@ header{
     width: 10vw;
     height: 10vw;
     left: 40vw;
-    top: 957vw;
+    top: 962vw;
   }
    #p1-green-right{
      width: 10vw;
      height: 10vw;
      left: 53vw;
-     top: 957vw;
+     top: 962vw;
    }
 
 }
