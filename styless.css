@@ -4821,7 +4821,7 @@ header{
     font-size: 5.37vw;
   }
   #p-duplexOne-p{
-    width: 212.05px;
+    width: 58vw;
     left: 21.9vw;
     top: 178vw;
     font-size: 3.38vw;
@@ -5011,5 +5011,132 @@ header{
   }
   .p-t-foot{
      top: 1130vw;
-   }  
+   }
+  #p-guniteStandard-h6{
+    display: none;
+  }
+  #p-dualConnection-h6{
+    display: none;
+  }
+  #p-guniteStandard-img{
+    width: 70vw;
+    height: 90vw;
+    top: 80vw;
+    left: 15vw;
+  }
+  #p-guniteStandard-h3{
+    /* width: 174.63px; */
+    left: 26.9vw;
+    top: 172vw;
+    font-size: 5.37vw;
+  }
+  #p-guniteStandard-p{
+    width: 212.05px;
+    left: 21.9vw;
+    top: 178vw;
+    font-size: 3.38vw;
+  }
+  #p-airDisc-img{
+    width: 70vw;
+    height: 90vw;
+    top: 218vw;
+    left: 15vw;
+  }
+  #p-airDisc-h3{
+    width: 77vw;
+    left: 11.9vw;
+    top: 309vw;
+    font-size: 5.37vw;
+  }
+  #p-airDisc-p{
+    width: 61vw;
+    left: 21.9vw;
+    top: 325vw;
+    font-size: 3.38vw;
+  }
+  #p-dualConnection-img{
+    width: 70vw;
+    height: 90vw;
+    top: 365vw;
+    left: 15vw;
+  }
+  #p-dualConnection-h3{
+    width: 62vw;
+    left: 19.5vw;
+    top: 457vw;
+    font-size: 5.37vw;
+  }
+  #p-dualConnection-p{
+    width: 52vw;
+    left: 24.9vw;
+    top: 473vw;
+    font-size: 3.38vw;
+  }
+  #p-longlifeHub-img{
+    width: 70vw;
+    height: 90vw;
+    top: 519vw;
+    left: 15vw;
+  }
+  #p-longlifeHub-h3{
+    width: 81vw;
+    left: 9.3vw;
+    top: 611vw;
+    font-size: 5.37vw;
+  }
+  #p-longlifeHub-p{
+    width: 55vw;
+    left: 23.1vw;
+    top: 628vw;
+    font-size: 3.38vw;
+  }
+  #p-hubsDrum-img{
+    width: 70vw;
+    height: 90vw;
+    top: 680vw;
+    left: 15vw;
+  }
+  #p-hubsDrum-h3{
+    width: 75vw;
+    left: 12.1vw;
+    top: 772vw;
+    font-size: 5.37vw;
+  }
+  #p-hubsDrum-p{
+    width: 56vw;
+    left: 22.2vw;
+    top: 780vw;
+    font-size: 3.38vw;
+  }
+  #p-kicTransit-img{
+    width: 70vw;
+    height: 90vw;
+    top: 821vw;
+    left: 15vw;
+  }
+  #p-kicTransit-h3{
+    /* width: 174.63px; */
+    left: 13.9vw;
+    top: 913vw;
+    font-size: 5.37vw;
+  }
+  #p-kicTransit-p{
+    width: 55vw;
+    left: 22.9vw;
+    top: 922vw;
+    font-size: 3.38vw;
+  }
+  
+  #p2-green-left{
+    width: 10vw;
+    height: 10vw;
+    left: 40vw;
+    top: 962vw;
+  }
+   #p2-grey-right{
+     width: 10vw;
+     height: 10vw;
+     left: 53vw;
+     top: 962vw;
+   }
 }
