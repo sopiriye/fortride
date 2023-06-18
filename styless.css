@@ -5209,4 +5209,55 @@ header{
    #ca-h3-1{
     top: 53vw;
    }
+   #ca-h6-2{
+    width: 201.75px;
+    top: 441vw;
+    left: 15.6vw;
+    font-size: 3.22vw;
+  }
+  #ca-p-8{
+    width: 75vw;
+    font-size: 3.1vw;
+    left: 15.6vw;
+    top: 448vw;
+  }
+   #ca-p-9{
+    font-size: 3.22vw;
+    left: 15.6vw;
+    
+  }
+   #ca-p-10{
+    font-size: 3.4vw;
+    width: 75vw;
+    left: 15.6vw;
+    top: 489vw;
+  }
+   #ca-bf-bac{
+    width: 100%;
+    left:0;
+    border-radius: 0;
+    height: 154vw;
+  }
+   #ca-h3-7{
+    width: 254px;
+    left: 14.5vw;
+    top: 14vw;
+    font-size: 5.39vw;
+  }
+   #ca-p-11{
+     width: 68vw;
+     left: 14.5vw;
+     top: 24vw;
+     font-size: 3.7vw;
+   }
+   #ca-apply-cont-6{
+    width: 31vw;
+    height: 11vw;
+    top: 132vw;
+    left: 15.6vw;
+    border-radius: 9px;
+  }
+   #ca-link-app{
+     font-size: 3.5vw;
+   }
 }
