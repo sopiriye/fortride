@@ -4773,7 +4773,7 @@ header{
     background: url("images/BG_mobile-p.png");
     background-repeat:no-repeat;
     height: 37vw;
-    top: 48px;
+    top: 54px;
     /*     background-size: ; */
     background-size: cover;
   }
@@ -5140,7 +5140,7 @@ header{
      top: 962vw;
    }
    #join-cont{
-     top: 46px;
+     top: 50px;
      background: url("images/join_us_mobile.png");
      height: 37vw;
    }
@@ -5240,7 +5240,7 @@ header{
     top: 513vw;
   }
    #ca-h3-7{
-    width: 254px;
+/*     width: 254px; */
     left: 14.5vw;
     top: 14vw;
     font-size: 5.39vw;
@@ -5264,4 +5264,7 @@ header{
    .ca-t-foot{
     top: 667vw;
   }
+   .l-t-foot{
+    top: 875vw;
+    }
 }
