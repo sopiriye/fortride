@@ -5206,30 +5206,30 @@ header{
      height: 35vw;
      top: 395vw;
    }
-   #ca-h3-1{
+  #ca-h3-1{
     top: 53vw;
-   }
-   #ca-h6-2{
-    width: 201.75px;
+  }
+  #ca-h6-2{
+    /* width: 201.75px; */
     top: 441vw;
-    left: 15.6vw;
+    left: 14vw;
     font-size: 3.22vw;
   }
   #ca-p-8{
     width: 75vw;
     font-size: 3.1vw;
-    left: 15.6vw;
+    left: 14vw;
     top: 448vw;
   }
    #ca-p-9{
     font-size: 3.22vw;
-    left: 15.6vw;
-    
+    left: 14vw;
+    top: 483vw;
   }
    #ca-p-10{
     font-size: 3.4vw;
     width: 75vw;
-    left: 15.6vw;
+    left: 14vw;
     top: 489vw;
   }
    #ca-bf-bac{
@@ -5237,6 +5237,7 @@ header{
     left:0;
     border-radius: 0;
     height: 154vw;
+    top: 513vw;
   }
    #ca-h3-7{
     width: 254px;
