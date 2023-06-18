@@ -3355,7 +3355,7 @@ header{
 }
 
 .ca-p-3{
-  width: 31.47vw;
+/*   width: 31.47vw; */
     /* height: 33px; */
   
     font-family: 'Nunito';
@@ -4508,7 +4508,7 @@ header{
     text-align: center;
   }
   .lm-link{
-    font-size: 4.13vw;
+    font-size: 3.5vw;
     /* width: 73px; */
   }
   #lm-cont-link{
@@ -5138,5 +5138,72 @@ header{
      height: 10vw;
      left: 53vw;
      top: 962vw;
+   }
+   #join-cont{
+     top: 46px;
+     background: url("images/join_us_mobile.png");
+     height: 37vw;
+   }
+   #joinus{
+     font-size: 5.37vw;
+     /* width: 63.9px; */
+     top: 19vw;
+     left: 43vw;
+   }
+   #people-img{
+     height: 75vw;
+     width: 75vw;
+     left: 12.3vw;
+     top: 62vw;
+     border-radius: 29px;
+   }
+   #ca-h6-1{/*      width: 72vw; */font-size: 3.22vw;left: 14vw;top: 146vw;}
+   #ca-p-2{
+     width: 72vw;
+     font-size: 3.22vw;
+     left: 14vw;
+     top: 173vw;
+   }
+   #ca-p-1{
+     width: 72vw;
+     font-size: 3.22vw;
+     left: 14vw;
+     top: 151vw;
+   }
+   #ca-ass-fin{
+     top: 228vw;
+     height: 35vw;
+   }
+   .ca-h3-2{
+     font-size: 2.5vw;
+     top: 5vw;
+/*      width: 67vw; */
+   }
+   .ca-p-3{
+     font-size: 2vw;
+     top: 9vw;
+/*      width: 67vw; */
+   }
+   .ca-apply-cont-1{
+     width: 23vw;
+     height: 9vw;
+     top: 16vw;
+     border-radius: 5px;
+   }
+   #ca-ass-pro{
+     height: 35vw;
+     top: 269vw;
+  }
+   #ca-ass-log{
+     height: 35vw;
+     top: 311vw;
+  }
+   #ca-rem-ass{
+     height: 35vw;
+     top: 353vw;
+   }
+   #ca-men-tech{
+     height: 35vw;
+     top: 395vw;
    }
 }
