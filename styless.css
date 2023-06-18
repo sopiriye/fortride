@@ -5261,4 +5261,7 @@ header{
    #ca-link-app{
      font-size: 3.5vw;
    }
+   .ca-t-foot{
+    top: 667vw;
+  }
 }
