@@ -5521,11 +5521,11 @@ header{
   }
   #l-more-f{
     font-size: 16px;
-    left: 41%;
+    left: 43%;
     top: 5vw;
   }
   #l-blog-f{
-    left: 41%;
+    left: 43%;
     top: 11vw;
   }
   #cust-foot{
@@ -5561,4 +5561,5 @@ header{
     left: 20%;
     top: 61vw;
   }
+ 
 }
