@@ -5267,4 +5267,212 @@ header{
    .l-t-foot{
     top: 875vw;
     }
+  #a-bgimg{
+     top: 78px;
+   }
+   #a-head-about{
+     /* width: 81px; */
+     font-size: 5.4vw;
+     left: 40vw;
+     top: 10vw;
+  }
+  #a-h2-1{
+    /* width: 81px; */
+    font-size: 4.2vw;
+    left: 14.5vw;
+    top: 56vw;
+  }
+  #a-p-1{
+    width: 70vw;
+    font-size: 3.2vw;
+    left: 14.5vw;
+    top: 63vw;
+  }
+  #a-h5-1{
+    font-size: 3.2vw;
+    top: 85vw;
+    left: 14.5vw;
+  }
+  #a-p-2{
+    font-size: 3.2vw;
+    top: 90vw;
+    left: 14.5vw;
+    width: 70vw;
+  }
+  #two-wheels-exh{
+    top: 146vw;
+    height: 30vw;
+    width: 69vw;
+    left: 14.5vw;
+    border-radius: 15px;
+  }
+  #a-p-3{
+    font-size: 3.2vw;
+    top: 183vw;
+    left: 14.5vw;
+    width: 70vw;
+  }
+  #a-p-4{
+    font-size: 3.2vw;
+    top: 206vw;
+    left: 14.5vw;
+    width: 70vw;
+  }
+  #a-h5-2{
+    font-size: 3.2vw;
+    top: 233vw;
+    left: 14.5vw;
+    /* width: 70vw; */
+  }
+  #a-p-5{
+    font-size: 3.2vw;
+    top: 238vw;
+    left: 14.5vw;
+    width: 70vw;
+  }
+  #a-h5-3{
+    font-size: 3.2vw;
+    top: 280vw;
+    left: 14.5vw;
+/*     width: 70vw; */
+  }
+  #a-p-6{
+    font-size: 3.2vw;
+    top: 285vw;
+    left: 14.5vw;
+    width: 70vw;
+  }
+  #a-h5-4{
+    font-size: 3.2vw;
+    top: 311vw;
+    left: 14.5vw;
+/*     width: 70vw; */
+  }
+  #a-p-7{
+    font-size: 3.2vw;
+    top: 316vw;
+    left: 14.5vw;
+    width: 70vw;
+  }
+  #a-h5-5{
+    font-size: 3.2vw;
+    top: 372vw;
+    left: 14.5vw;
+    /*  width: 70vw; */
+  }
+  #a-p-8{
+    font-size: 3.2vw;
+    top: 377vw;
+    left: 14.5vw;
+    width: 70vw;
+  }
+  #a-brand-work{
+    display: none;
+  }
+  #a-chevrolet{
+    display: none;
+  }
+  #a-aston-martin{
+    display: none;
+  }
+  #a-gmc{
+    display: none;
+  }
+  #a-ducati{
+    display: none;
+  }
+  #a-cadillac-crest{
+    display: none;
+  }
+  #a-tesla{
+    display: none;
+  }
+  #sus-black{
+    width: 86%;
+    left: 7vw;
+    top: 443vw;
+    height: 42vw;
+    border-radius: 7px;
+  }
+  #a-h5-6{
+    font-size: 2.7vw;
+    top: 7vw;
+    left: 5vw;
+    color: #38E55F;
+  }
+  #a-p-com{
+    font-size: 2.5vw;
+    top: 13vw;
+    left: 5vw;
+  }
+  #a-p-9{
+    font-size: 2.5vw;
+    top: 18vw;
+    left: 5vw;
+    width: 75vw;
+  }
+  #a-l-lname{
+    display: none;
+  }
+  #a-lname{
+    display: none;
+  }
+  #a-l-subject{
+    display: none;
+  }
+  #a-subject{
+    display: none;
+  }
+  #a-l-fname{
+    font-size: 2.69vw;
+    top: 5vw;
+    left: 18vw;
+  }
+  #a-l-email{
+    font-size: 2.69vw;
+    top: 20vw;
+    left: 18vw;
+  }
+  #a-b-foot{
+    top: 494vw;
+    height: 93vw;
+  }
+  #a-fname{
+    font-size: 4vw;
+    height: 5vw;
+    width: 65vw;
+    top: 11vw;
+    left: 18vw;
+  }
+  #a-email{
+    font-size: 4vw;
+    height: 5vw;
+    width: 65vw;
+    top: 26vw;
+    left: 18vw;
+  } 
+  #a-l-textarea{
+    font-size: 2.69vw;
+    top: 35vw;
+    left: 18vw;
+  }
+  #a-textarea{
+    width: 65vw;
+    left: 18vw;
+    height: 25vw;
+    top: 39vw;
+    font-size: 3vw;
+  }
+  #a-but-cont{
+    padding: 0;
+    width: 32vw;
+    height: 10vw;
+    top: 69vw;
+    left: 34vw;
+  }
+  #a-mes-sent{
+    top: 82vw;
+    left: 37vw;
+    font-size: 2.2vw;
+  }
 }
