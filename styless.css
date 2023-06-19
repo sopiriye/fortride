@@ -458,7 +458,7 @@ header{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 0.768vw;
+    font-size: 0.9vw;
 /*     line-height: 19px; */
     /* identical to box height */
   
@@ -1174,7 +1174,7 @@ header{
 }
 
 .ab-t-foot{
-    top: 300vw;
+    top: 219vw;
 }
 
 
@@ -2963,8 +2963,8 @@ header{
   position: absolute;
   /* width: 146px; */
   /* height: 51px; */
-  left: 43.6vw;
-  top: 36.3vw;
+  left: 43.8vw;
+  top: 40.1vw;
 
   background: #208235;
   backdrop-filter: blur(40px);
@@ -5475,4 +5475,6 @@ header{
     left: 38.7vw;
     font-size: 2.2vw;
   }
+  .ab-t-foot{
+    top: 590vw;
 }
