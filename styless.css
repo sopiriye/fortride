@@ -5477,4 +5477,88 @@ header{
   }
   .ab-t-foot{
     top: 590vw;
+  }
+  #l-navz-foot{
+    height: 93vw;
+  }
+  .l-nav-f{
+    font-size: 16px;
+  }
+  #l-home-f{
+    left: 13%;
+    top: 5vw;
+  }
+  #l-about-f{
+    left: 13%;
+    top: 11vw;
+  }
+  #l-product-f{
+    left: 13%;
+    top: 17vw;
+  }
+  #l-contact-f{
+    left: 13%;
+    top: 23vw;
+  }
+  #l-career-f{
+    left: 13%;
+    top: 29vw;
+  }
+  #l-con-f{
+    font-size: 16px;
+    left: 70%;
+    top: 5vw;
+  }
+  #l-facebook-f{
+    font-size: 16px;
+    left: 70%;
+    top: 11vw;
+  }
+  #l-linkedln-f{
+    font-size: 16px;
+    left: 70%;
+    top: 17vw;
+  }
+  #l-more-f{
+    font-size: 16px;
+    left: 41%;
+    top: 5vw;
+  }
+  #l-blog-f{
+    left: 41%;
+    top: 11vw;
+  }
+  #cust-foot{
+    font-size: 10px;
+    left: 5vw;
+    top: 70vw;
+  }
+  #tel-foot{
+    font-size: 10px;
+    left: 5vw;
+    top: 76vw;
+  }
+  #l-sub{
+    font-size: 20px;
+    left: 11%;
+    top: 41vw;
+  }
+  #i-sub{
+    left: 5%;
+    width: 70vw;
+    top: 50vw;
+    height: 10vw;
+  }
+  #but-cont-foot{
+    left: 75%;
+    width: 20vw;
+    height: 10vw;
+    top: 50vw;
+    font-size: 3.5vw;
+  }
+  #sub-sent{
+    font-size: 10px;
+    left: 20%;
+    top: 61vw;
+  }
 }
