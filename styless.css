@@ -458,7 +458,7 @@ header{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
-    font-size: 0.9vw;
+    font-size: 1vw;
 /*     line-height: 19px; */
     /* identical to box height */
   
@@ -1166,7 +1166,7 @@ header{
 }
 
 .ca-t-foot{
-    top: 300vw;
+    top: 256vw;
 }
 
 .co-t-foot{
@@ -3492,8 +3492,8 @@ header{
     /* padding: 25px 53px; */
     gap: 10px;
   
-    width: 13.1vw;
-    height: 5.1vw;
+    width: 10.1vw;
+    height: 4.1vw;
   
     background: #208235;
     border-radius: 39px;
