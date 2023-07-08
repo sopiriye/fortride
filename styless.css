@@ -1143,7 +1143,7 @@ header{
     font-style: normal;
 }
 
-.l-navz-foot{
+#l-navz-foot{
   position: absolute;
     height: 26vw;
     
@@ -4072,7 +4072,7 @@ header{
     
   }
 
- .l-home-f{
+ #l-home-f{
   position: absolute;
     left: 22.47%;
     /* right: 74.68%; */
@@ -4081,7 +4081,7 @@ header{
     /* font-family: 700; */
  }
 
- .l-about-f{
+ #l-about-f{
   position: absolute;
     left: 22.47%;
     /* right: 73.82%; */
@@ -4089,7 +4089,7 @@ header{
     /* bottom: 58.21%; */
  }
 
- .l-product-f{
+ #l-product-f{
   position: absolute;
     left: 22.47%;
     /* right: 74.28%; */
@@ -4097,7 +4097,7 @@ header{
     /* bottom: 46.77%; */
  }
 
- .l-contact-f{
+ #l-contact-f{
   position: absolute;
     left: 22.47%;
     /* right: 73.69%; */
@@ -4105,7 +4105,7 @@ header{
     /* bottom: 35.32%; */
  }
 
- .l-career-f{
+ #l-career-f{
   position: absolute;
     left: 22.47%;
     /* right: 73.69%; */
@@ -4113,7 +4113,7 @@ header{
     /* bottom: 35.32%; */
  }
 
-.l-more-f{
+#l-more-f{
   position: absolute;
     left: 33.27%;
     /* right: 64.21%; */
@@ -4131,7 +4131,7 @@ header{
     color: #FFFFFF;
 }
 
-.l-con-f{
+#l-con-f{
   position: absolute;
     left: 42.6%;
     /* right: 64.21%; */
@@ -4149,7 +4149,7 @@ header{
     color: #FFFFFF;
 }
 
-.l-blog-f{
+#l-blog-f{
   position: absolute;
     left: 33.27%;
     /* right: 73.69%; */
@@ -4157,7 +4157,7 @@ header{
     /* bottom: 46.77%; */
 }
 
-.l-facebook-f{
+#l-facebook-f{
   position: absolute;
     left: 42.6%;
     /* right: 64.21%; */
@@ -4175,7 +4175,7 @@ header{
     color: #FFFFFF;
 }
 
-.l-linkedln-f{
+#l-linkedln-f{
   position: absolute;
     left: 42.6%;
     /* right: 64.21%; */
@@ -4193,7 +4193,7 @@ header{
     color: #FFFFFF;
 }
 
-.cust-foot{
+#cust-foot{
   position: absolute;
     /* width: 337px; */
     /* height: 19px; */
@@ -4213,7 +4213,7 @@ header{
     color: #FFFFFF;
 }
 
-.tel-foot{
+#tel-foot{
   position: absolute;
     /* width: 337px; */
     /* height: 19px; */
@@ -4233,7 +4233,7 @@ header{
     color: #FFFFFF;
 }
 
-.l-sub{
+#l-sub{
   position: absolute;
     left: 56.43%;
     /* right: 14.23%; */
@@ -4251,7 +4251,7 @@ header{
     color: #FFFFFF;
 }
 
-.i-sub{
+#i-sub{
   box-sizing: border-box;
   
     position: absolute;
@@ -4267,8 +4267,8 @@ header{
     width: 29.4vw;
 }
 
-.but-cont-foot{
-    display: flex;
+#but-cont-foot{
+  display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
@@ -4291,8 +4291,8 @@ header{
     height: 4.1vw;
 }
 
- .sub-link-foot{
-    width: 72px;
+#sub-link-foot{
+  width: 72px;
     /* height: 19px; */
   
     font-family: 'Roboto';
@@ -4316,7 +4316,7 @@ header{
     flex-grow: 0;
 }
 
-.sub-sent{
+#sub-sent{
   position: absolute;
     /* width: 50px; */
     /* height: 19px; */
@@ -5012,114 +5012,131 @@ header{
   .p-t-foot{
      top: 1130vw;
    }
-  #p-guniteStandard-h6{
-    display: none;
-  }
-  #p-dualConnection-h6{
-    display: none;
-  }
-  #p-guniteStandard-img{
-    width: 70vw;
-    height: 90vw;
-    top: 80vw;
-    left: 15vw;
-  }
-  #p-guniteStandard-h3{
-    width: 64vw;
-    left: 17.9vw;
-    top: 172vw;
-    font-size: 5.37vw;
-  }
-  #p-guniteStandard-p{
-    width: 65vw;
-    left: 17.9vw;
-    top: 187vw;
-    font-size: 3.38vw;
-  }
-  #p-airDisc-img{
-    width: 70vw;
-    height: 90vw;
-    top: 223vw;
-    left: 15vw;
-  }
-  #p-airDisc-h3{
-    width: 77vw;
-    left: 11.9vw;
-    top: 315vw;
-    font-size: 5.37vw;
-  }
-  #p-airDisc-p{
-    width: 61vw;
-    left: 21.9vw;
-    top: 330vw;
-    font-size: 3.38vw;
-  }
-  #p-dualConnection-img{
-    width: 70vw;
-    height: 90vw;
-    top: 365vw;
-    left: 15vw;
-  }
-  #p-dualConnection-h3{
-    width: 62vw;
-    left: 19.5vw;
-    top: 457vw;
-    font-size: 5.37vw;
-  }
-  #p-dualConnection-p{
-    width: 52vw;
-    left: 24.9vw;
-    top: 473vw;
-    font-size: 3.38vw;
-  }
-  #p-longlifeHub-img{
-    width: 70vw;
-    height: 90vw;
-    top: 513vw;
-    left: 15vw;
-  }
-  #p-longlifeHub-h3{
-    width: 81vw;
-    left: 9.3vw;
-    top: 604vw;
-    font-size: 5.37vw;
-  }
-  #p-longlifeHub-p{
-    width: 74vw;
-    left: 13.1vw;
-    top: 620vw;
-    font-size: 3.38vw;
-  }
-  #p-hubsDrum-img{
-    width: 70vw;
-    height: 90vw;
-    top: 680vw;
-    left: 15vw;
-  }
-  #p-hubsDrum-h3{
-    width: 75vw;
-    left: 12.1vw;
-    top: 772vw;
-    font-size: 5.37vw;
-  }
-  #p-hubsDrum-p{
-    width: 56vw;
-    left: 22.2vw;
-    top: 787vw;
-    font-size: 3.38vw;
-  }
-  #p-kicTransit-img{
-    width: 70vw;
-    height: 90vw;
-    top: 821vw;
-    left: 15vw;
-  }
-  #p-kicTransit-h3{
-    /* width: 174.63px; */
-    left: 13.9vw;
-    top: 913vw;
-    font-size: 5.37vw;
-  }
+    #p-guniteStandard-img {
+      width: 70vw;
+      height: 90vw;
+      top: 80vw;
+      left: 15vw;
+    }
+  
+    #p-guniteStandard-h3 {
+      width: 64vw;
+      left: 17.9vw;
+      top: 172vw;
+      font-size: 5.37vw;
+    }
+  
+    #p-guniteStandard-p {
+      width: 65vw;
+      left: 17.9vw;
+      top: 187vw;
+      font-size: 3.38vw;
+    }
+  
+    #p-airDisc-img {
+      width: 70vw;
+      height: 90vw;
+      top: 223vw;
+      left: 15vw;
+    }
+  
+    #p-airDisc-h3 {
+      width: 77vw;
+      left: 11.9vw;
+      top: 315vw;
+      font-size: 5.37vw;
+    }
+  
+    #p-airDisc-p {
+      width: 61vw;
+      left: 21.9vw;
+      top: 330vw;
+      font-size: 3.38vw;
+    }
+  
+    #p-dualConnection-img {
+      width: 70vw;
+      height: 90vw;
+      top: 365vw;
+      left: 15vw;
+    }
+  
+    #p-dualConnection-h3 {
+      width: 62vw;
+      left: 19.5vw;
+      top: 457vw;
+      font-size: 5.37vw;
+    }
+  
+    #p-dualConnection-p {
+      width: 52vw;
+      left: 24.9vw;
+      top: 473vw;
+      font-size: 3.38vw;
+    }
+  
+    #p-longlifeHub-img {
+      width: 70vw;
+      height: 90vw;
+      top: 513vw;
+      left: 15vw;
+    }
+  
+    #p-longlifeHub-h3 {
+      width: 81vw;
+      left: 9.3vw;
+      top: 604vw;
+      font-size: 5.37vw;
+    }
+  
+    #p-longlifeHub-p {
+      width: 74vw;
+      left: 13.1vw;
+      top: 620vw;
+      font-size: 3.38vw;
+    }
+  
+    #p-hubsDrum-img {
+      width: 70vw;
+      height: 90vw;
+      top: 680vw;
+      left: 15vw;
+    }
+  
+    #p-hubsDrum-h3 {
+      width: 75vw;
+      left: 12.1vw;
+      top: 772vw;
+      font-size: 5.37vw;
+    }
+  
+    #p-hubsDrum-p {
+      width: 56vw;
+      left: 22.2vw;
+      top: 787vw;
+      font-size: 3.38vw;
+    }
+  
+    #p-kicTransit-img {
+      width: 70vw;
+      height: 90vw;
+      top: 821vw;
+      left: 15vw;
+    }
+  
+    #p-kicTransit-h3 {
+      /* width: 174.63px; */
+      left: 13.9vw;
+      top: 913vw;
+      font-size: 5.37vw;
+    }
+  
+    #p-kicTransit-p {
+      width: 55vw;
+      left: 22.9vw;
+      top: 922vw;
+      font-size: 3.38vw;
+    }
   #p-kicTransit-p{
     width: 55vw;
     left: 22.9vw;
@@ -5478,88 +5495,97 @@ header{
   .ab-t-foot{
     top: 590vw;
   }
-  .l-navz-foot{
+  #l-navz-foot{
     height: 93vw;
   }
   .l-nav-f{
     font-size: 16px;
   }
-  .l-home-f{
+  #l-home-f{
     left: 13%;
     top: 5vw;
   }
-  .l-about-f{
+  #l-about-f{
     left: 13%;
     top: 11vw;
   }
-  .l-product-f{
+  #l-product-f{
     left: 13%;
     top: 17vw;
   }
-  .l-contact-f{
+  #l-contact-f{
     left: 13%;
     top: 23vw;
   }
-  .l-career-f{
+  #l-career-f{
     left: 13%;
     top: 29vw;
   }
-  .l-con-f{
+  #l-con-f{
     font-size: 16px;
     left: 70%;
     top: 5vw;
   }
-  .l-facebook-f{
+  #l-facebook-f{
     font-size: 16px;
     left: 70%;
     top: 11vw;
   }
-  .l-linkedln-f{
+  #l-linkedln-f{
     font-size: 16px;
     left: 70%;
     top: 17vw;
   }
-  .l-more-f{
+  #l-more-f{
     font-size: 16px;
     left: 43%;
     top: 5vw;
   }
-  .l-blog-f{
+  #l-blog-f{
     left: 43%;
     top: 11vw;
   }
-  .cust-foot{
+  #cust-foot{
     font-size: 10px;
     left: 5vw;
     top: 70vw;
   }
-  .tel-foot{
+  #tel-foot{
     font-size: 10px;
     left: 5vw;
     top: 76vw;
   }
-  .l-sub{
+  #l-sub{
     font-size: 20px;
     left: 11%;
     top: 41vw;
   }
-  .i-sub{
+  #i-sub{
     left: 5%;
     width: 70vw;
     top: 50vw;
     height: 10vw;
   }
-  .but-cont-foot{
-    left: 76%;
+  #but-cont-foot{
+    left: 75%;
     width: 20vw;
     height: 10vw;
     top: 50vw;
     font-size: 3.5vw;
   }
-  .sub-sent{
+  #sub-sent{
     font-size: 10px;
     left: 20%;
     top: 61vw;
+  }
+  .p2-t-foot{
+    top: 1130vw;
+  }
+  #p-guniteStandard-h6{
+    display: none;
+  }
+  #p-dualConnection-h6{
+    display: none;
   }
  
 }
