@@ -5588,11 +5588,11 @@ header{
     display: none;
   }
   .co-t-foot{
-    top: 190vw;
+    top: 143vw;
   }
   #co-hea{
     top: 83px;
-    height: 150vw;
+    height: 127vw;
   }
   #contact-us{
     font-size: 3vw;
@@ -5618,7 +5618,51 @@ header{
   }
   #let-talk{
     font-size: 4.8vw;
-    top: 50vw;
+    top: 48vw;
     left: 12vw;
- 
+  }
+  #numb{
+    font-size: 3.6vw;
+    left: 12vw;
+    top: 56vw;
+  }
+  #email-co{
+    font-size: 3.6vw;
+    top: 56vw;
+    left: 45vw;
+  }
+  #hea-off{
+    font-size: 4.8vw;
+    top: 69vw;
+    left: 12vw;
+  }
+  #co-loc{
+    font-size: 3.6vw;
+    left: 12vw;
+    width: 77vw;
+    top: 77vw;
+  }
+  #co-ba{
+    font-size: 4.8vw;
+    left: 12vw;
+    top: 89vw;
+  }
+  #co-ba-loc{
+    font-size: 3.6vw;
+    width: 60vw;
+    left: 12vw;
+    top: 97vw;
+  }
+  #svg-linkedln{
+    width: 10vw;
+    height: 10vw;
+    left: 12vw;
+    top: 110vw;
+  }
+  #svg-instagram{
+    width: 10vw;
+    height: 10vw;
+    left: 29vw;
+    top: 110vw;
+  }
 }
