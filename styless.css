@@ -5587,5 +5587,38 @@ header{
   #p-dualConnection-h6{
     display: none;
   }
+  .co-t-foot{
+    top: 190vw;
+  }
+  #co-hea{
+    top: 83px;
+    height: 150vw;
+  }
+  #contact-us{
+    font-size: 3vw;
+    top: 7vw;
+    left: 29vw;
+  }
+  #co-line-know{
+    width: 16vw;
+    left: 10vw;
+    top: 8.5vw;
+  }
+  #we-love{
+    font-size: 4.8vw;
+    top: 17vw;
+    left: 12vw;
+    width: 70vw;
+  }
+  #co-ques{
+    font-size: 3.6vw;
+    left: 12vw;
+    top: 25vw;
+    width: 69vw;
+  }
+  #let-talk{
+    font-size: 4.8vw;
+    top: 50vw;
+    left: 12vw;
  
 }
